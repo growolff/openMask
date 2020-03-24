@@ -28,7 +28,7 @@ License][cc-by].
 3D cad Download v4 TOP
 [V4i2top.stl](/cad/V4i2top.stl)\
 3D cad Fusion 360
-[V4i2top.stl](/cad/COVID V4 i2 Beta v3.f3d)
+[V4i2top.stl](/cad/COVID_V4_i2_Beta_v3.f3d)
 
 ## Progreso del proyecto openMask Covid-19 CL 
 
