@@ -2,16 +2,26 @@
 
 openMask
 
-## Managed By
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
-## openMask Covid-19 CL Project Progress
+This work is licensed under a [Creative Commons Attribution 4.0 International
+License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+
+## Progreso del proyecto openMask Covid-19 CL 
 
 #### openMask Screenshot Mon, 23 Mar 2020 
 ![Screenshot 1 openMask v1](/images/ss1.jpg)
 ![Screenshot 2 openMask v1](/images/ss2.jpg)
 ![Screenshot 3 openMask v1](/images/ss3.jpg)
 
-#### openMask Test print Mon, 23 Mar 2020 
+#### openMask Test Print Mon, 23 Mar 2020 
 
 ![Screenshot 4 openMask v1](/images/ss4v2.jpg)
 > Test print 1 data:\
@@ -30,18 +40,13 @@ openMask
 Mon, 23 Mar 2020 \
 ![Screenshot 5 openMask v1](/images/ss5.jpg)
 
-## openMask Covid-19 CL Project
+## Información del proyecto openMask Covid-19 CL
 
-### Goal
+### Objetivo
 
-Print a mask in the shortest possible time on flexible TPU material.
+Imprimir una mascarilla en el menor tiempo posible, utilizando material TPU flexible.
 
-### Objectives
+### Cómo ayudar
 
-### Success Criteria
+Cualquier colaboración y ayuda para el desarrollo del proyecto será bienvenida.
 
-### Contributing - How to help
-
-Please any help will be appreciated
-
-## License
