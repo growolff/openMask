@@ -34,12 +34,14 @@ Mon, 23 Mar 2020 \
 
 ### Goal
 
+Print a mask in the shortest possible time on flexible TPU material.
+
 ### Objectives
 
 ### Success Criteria
 
-## Contributing - How to help
+### Contributing - How to help
 
-
+Please any help will be appreciated
 
 ## License
