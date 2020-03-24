@@ -30,7 +30,7 @@ License][cc-by].
 3D cad Download v4 TOP
 [V4i2top.stl](/cad/V4i2top.stl)\
 3D cad Fusion 360
-[V4i2top.stl](/cad/COVID_V4_i2_Beta_v3.f3d)
+[V4_i2_Beta](/cad/COVID_V4_i2_Beta_v3.f3d)
 
 #### openMask Screenshot Mon, 23 Mar 2020 
 ![Screenshot 1 openMask v1](/images/ss1.jpg)
