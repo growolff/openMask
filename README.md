@@ -69,5 +69,5 @@ Cualquier colaboración y ayuda para el desarrollo del proyecto será bienvenida
 
 Esperamos que este aporte sea fructífero, por eso es que publicaremos todos los archivos fuente.
 
-![Terminación superficial](/images/ss10.jpg)
+![Terminación superficial](/images/ss10.png)
 
