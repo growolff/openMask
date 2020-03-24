@@ -14,11 +14,11 @@ openMask
 #### openMask Test print Mon, 23 Mar 2020 
 
 ![Screenshot 4 openMask v1](/images/ss4.jpg)
-> Test print 1 data:
-> Print time: 1 hour 9 minutes //
-> Total material: 17 grams - 5.87 meters
+> Test print 1 data:\
+> Print time: 1 hour 9 minutes\
+> Total material: 17 grams - 5.87 meters\
 
-- [x] Test print 1:
+- [x] Test print 1:\
 ![Screenshot 5 openMask v1](/images/ss5.jpg)
 
 ## openMask Covid-19 CL Project
