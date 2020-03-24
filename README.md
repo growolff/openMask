@@ -51,9 +51,9 @@ Mon, 23 Mar 2020 \
 > Total material: 45 grams - 15.04 meters
 
 3D cad Download v4 
-[V1.stl](/cad/V4i1.stl)\
+[V4i1.stl](/cad/V4i1.stl)\
 3D cad Download v4 TOP
-[V2.stl](/cad/V4i2top.stl)
+[V4i2top.stl](/cad/V4i2top.stl)
 
 ## Información del proyecto openMask Covid-19 CL
 
