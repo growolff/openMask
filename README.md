@@ -11,6 +11,8 @@ License][cc-by].
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
+## Progreso del proyecto openMask Covid-19 CL 
+
 #### openMask Screenshot Tue, 24 Mar 2020
 ![Screenshot 6 openMask v1](/images/ss6.jpg)
 ![Screenshot 8 openMask v1](/images/ss8.jpg)
@@ -27,8 +29,6 @@ License][cc-by].
 [V4i1.stl](/cad/V4i1.stl)\
 3D cad Download v4 TOP
 [V4i2top.stl](/cad/V4i2top.stl)
-
-## Progreso del proyecto openMask Covid-19 CL 
 
 #### openMask Screenshot Mon, 23 Mar 2020 
 ![Screenshot 1 openMask v1](/images/ss1.jpg)
@@ -54,15 +54,13 @@ License][cc-by].
 Mon, 23 Mar 2020 \
 ![Screenshot 5 openMask v1](/images/ss5.jpg)
 
+# Información del proyecto openMask Covid-19 CL
 
-
-## Información del proyecto openMask Covid-19 CL
-
-### Objetivo
+## Objetivo
 
 Imprimir una mascarilla en el menor tiempo posible, utilizando material TPU flexible.
 
-### Cómo ayudar
+## Cómo ayudar
 
 Cualquier colaboración y ayuda para el desarrollo del proyecto será bienvenida.
 
