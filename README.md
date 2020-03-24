@@ -61,7 +61,7 @@ Mon, 23 Mar 2020 \
 ## Objetivo
 
 Imprimir una mascarilla en el menor tiempo posible, utilizando material TPU flexible. La antomía de este diseño está orientado por el trabajo de [WASP](https://www.3dprintingmedia.network/personalized-ppe-mask/) y del modelo obtenido por fotogrametría del Profesor Sebastián Fingehuth editado por [Materia 3D](https://www.materia3d.cl).
-El diseño está liderado por Pedro Garretón y Juan Cristobal Karich, junto con la ayuda en la docuementación Git de José Manuel Gomez.
+El diseño está liderado por Pedro Garretón y Juan Cristobal Karich, junto con la ayuda en la documentación Git de José Manuel Gomez.
 
 ## Cómo ayudar
 
