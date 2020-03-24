@@ -38,6 +38,23 @@ License][cc-by].
 Mon, 23 Mar 2020 \
 ![Screenshot 5 openMask v1](/images/ss5.jpg)
 
+#### openMask Screenshot Tue, 24 Mar 2020
+![Screenshot 6 openMask v1](/images/ss6.jpg)
+![Screenshot 8 openMask v1](/images/ss8.jpg)
+![Screenshot 9 openMask v1](/images/ss9.jpg)
+
+#### openMask Test Print Tue, 24 Mar 2020
+
+![Screenshot 7 openMask v1](/images/ss7.jpg)
+> Test print 2 data:\
+> Print time: 1 hour 7 minutes\
+> Total material: 45 grams - 15.04 meters
+
+3D cad Download v4 
+[V1.stl](/cad/V4i1.stl)\
+3D cad Download v4 TOP
+[V2.stl](/cad/V4i2top.stl)
+
 ## Información del proyecto openMask Covid-19 CL
 
 ### Objetivo
