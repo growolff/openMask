@@ -11,7 +11,7 @@ License][cc-by].
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-## Progreso del proyecto openMask Covid-19 CL 
+## Trabajo en Desarrollo / Progreso del proyecto openMask Covid-19 CL 
 
 #### openMask Screenshot Tue, 24 Mar 2020
 ![Screenshot 6 openMask v1](/images/ss6.jpg)
@@ -60,7 +60,7 @@ Mon, 23 Mar 2020 \
 
 ## Objetivo
 
-Imprimir una mascarilla en el menor tiempo posible, utilizando material TPU flexible.
+Imprimir una mascarilla en el menor tiempo posible, utilizando material TPU flexible. La antomía de este diseño está orientado por el trabajo de [WASP](https://www.3dprintingmedia.network/personalized-ppe-mask/)
 
 ## Cómo ayudar
 
