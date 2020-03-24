@@ -18,12 +18,12 @@ openMask
 > Print time: 1 hour 9 minutes\
 > Total material: 17 grams - 5.87 meters
 
-3D cad Download v1\
+3D cad Download v1 
 [V1.stl](/cad/V1.stl)\
-3D cad Download v2\
+3D cad Download v2 
 [V2.stl](/cad/V2.stl)\
-3D cad Download v3\
-[V3.stl](/cad/V3.stl)\
+3D cad Download v3 
+[V3.stl](/cad/V3.stl)
 
 - [x] Test print 1:
 
